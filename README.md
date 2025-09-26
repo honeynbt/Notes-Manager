@@ -38,8 +38,8 @@ README.md        # Project documentation
 
 3. **Compile** the code:
    ```bash
-   javac NotesApp.java
+   javac Main.java
 4. **Run** the application:
    ```bash
-   java NotesApp
+   java Main
 5. A notes.txt file will be created automatically in the same folder to store your notes.
